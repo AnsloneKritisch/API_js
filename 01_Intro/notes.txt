@@ -6,7 +6,7 @@ End Points
 
 Path 
 
-Parameter
+Parameter -> all Parameter starts after the ? in side the url
 
 Authentication
 
